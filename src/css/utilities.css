@@ -53,6 +53,18 @@
     max-width: 100vw;
   }
   
+  .top-header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 80;
+  }
+  
+  .main-content {
+    margin-top: var(--header-height);
+  }
+  
   .mobile-menu-btn {
     display: flex;
   }
