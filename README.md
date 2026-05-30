@@ -1,5 +1,6 @@
 # ✈️ Wanderlust — Your Digital Travel Planner 🌍
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Online-brightgreen?style=for-the-badge&logo=googlechrome&logoColor=white)](https://osama-aly-oa.github.io/Wanderlust-Travel-Planner/)
 [![Vanilla JS](https://img.shields.io/badge/JavaScript-Vanilla_ES6-yellow?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Architecture](https://img.shields.io/badge/Architecture-OOP_/_MVC-blueviolet?style=for-the-badge)](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
 [![CORS Bypass](https://img.shields.io/badge/CORS_Bypass-100%25_Offline-success?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
@@ -8,6 +9,8 @@
 > **Wanderlust** is a premium, state-of-the-art digital travel companion web application built purely with **Vanilla Javascript (ES6+)**, **Object-Oriented Programming (OOP)**, and the **Model-View-Controller (MVC)** architectural pattern. 
 > 
 > Engineered to run **100% offline** directly from the local file system (using the `file://` protocol) by bypassing browser CORS restrictions via a unified modular codebase.
+>
+> 🔗 **Live Demo Link**: [osama-aly-oa.github.io/Wanderlust-Travel-Planner/](https://osama-aly-oa.github.io/Wanderlust-Travel-Planner/)
 
 ---
 
