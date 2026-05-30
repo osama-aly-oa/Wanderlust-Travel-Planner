@@ -962,6 +962,7 @@ class WeatherView extends View {
             <span class="detail-value">${uv}</span>
           </div>
         </div>
+        ${precipChance > 15 ? `
         <div class="weather-detail-card">
           <div class="detail-icon precip"><i class="fa-solid fa-cloud-rain"></i></div>
           <div class="detail-info">
@@ -969,6 +970,7 @@ class WeatherView extends View {
             <span class="detail-value">${precipChance}%</span>
           </div>
         </div>
+        ` : ''}
       </div>
       
       <div class="weather-section">
